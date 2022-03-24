@@ -1,4 +1,4 @@
-![img](./images/Splash%20Header.jpg)
+![img](./images/SplashHeader.jpg)
 # Machine Learning in the county of Kings
 
 ## Overview
