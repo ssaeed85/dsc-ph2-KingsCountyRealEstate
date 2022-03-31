@@ -13,15 +13,26 @@
 ```
 ├── Workspace  
 │       ├── Nimeshi
-│       │   └── 
+│       │   ├── Notes.md
+│       │   └── Untitled.ipynb
 │       ├── Saad
-│       │   └── 
+│       │   ├── Choropleth testing.ipynb
+│       │   ├── Map Testing.ipynb
+│       │   ├── Model 7b.ipynb
+│       │   ├── Notebook.ipynb
+│       │   ├── Notebook_Generalized.pynb
+│       │   └── Notes.md
 │       └── Zach
-│           ├── 
-│           ├── 
-│           └── 
+│           ├── Models 6-8.ipynb
+│           ├── Refined Analysis.ipynb
+│           ├── Scrapwork.ipynb
+│           ├── Scrapwork2.ipynb
+│           └── Notes.md
 │
-├── data
+├──   data
+│       ├── column_names.md
+│       ├── kc_house_data.csv
+│       └── Zipcodes_for_King_County_and_Surrounding_Area___zipcode_area.geojson
 ├── images
 ├── README.md
 ├── *Final Presentation*
