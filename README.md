@@ -29,4 +29,4 @@
 ```
 ---
 ## Citations:
-Images of King County are properties of https://kingcounty.gov/
+Images and logo of King County are properties of https://kingcounty.gov/
