@@ -41,6 +41,7 @@
 ---
 ## Citations:
 Images and logo of King County are properties of https://kingcounty.gov/
+Zipcode geoJSON: https://gis-kingcounty.opendata.arcgis.com/datasets/zipcodes-for-king-county-and-surrounding-area-shorelines-zipcode-shore-area/explore\
 
 Folium References:\
 https://python-visualization.github.io/folium/quickstart.html\
