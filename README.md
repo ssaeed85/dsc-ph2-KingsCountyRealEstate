@@ -35,6 +35,7 @@ Our approach to data preparation was systematic. We removed some extraneous outl
 ![img](./images/Corelation%20Heatmap.png)
 
 To speak directly to our original business question, 
+
 >What types of houses are in most demand and where are they located?
 
 Location as a feature is key. Looking at the data in conjunction with zipcode boundary information we can highlight areas around King County that are in demand.
@@ -43,6 +44,7 @@ Location as a feature is key. Looking at the data in conjunction with zipcode bo
 
 >[Visit the interactive map
 ](maps/choropeth_zip_salecounts.html) - A clone of the repo would be required
+
 There are a few zipcodes that have a high volume of listings, however the areas around Green Lake really stand out considering the size of these districts. Most of these zipcodes have over 500 listings in that year alone.
 
 
