@@ -50,7 +50,26 @@ In fact, per our dataset, the median home price in King County is 450,000$. In c
 
 >>>Next we can identify property features that drive price.
 
+## In-Demand Features
+
+We identified that the most prevelent features of a home in or sales data were a 3 bedroom house with 2.5 bathrooms, with no view and a square foot living around 1,800 sqft built in the last 20 years. To identify the most common features of sold homes we took the highest counts for view, bedrooms, bathrooms, year built, condion, and zipcode of the home. For the square footage of living space and the square footage of interior housing living space for the nearest 15 neighbors we used the median values.
+
+
+
+## The Model
+When tested, our model receives an R-Squared value of .823. This means our model accounts for 82.3% of the varince in prices. In addition our tested root mean squared error was $85,474.40. This determines the range around our predicted price. Entering the key features into our model we are predicting that a home with these features in the designated zipcode will sell for between $610,306 and $696,306. We advise the real estate company target transactions in this price range to maximize their potential revenue. 
+
+![img](./images/ResidualsPlotforLinearRegressionModel7b.jpg)
+
+
+
+![img](./images/QQPlotModel7b.jpg)
+
+
+
 ![img](./images/price_vs_preds.jpg)
+
+The graph demonstrates how close some of our model's predictions have been getting in our target price range.
 
 ## Conclusions
 ---
