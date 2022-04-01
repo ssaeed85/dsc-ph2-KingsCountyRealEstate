@@ -40,12 +40,13 @@ Location as a feature is key. Looking at the data in conjunction with zipcode bo
 
 There are a few zipcodes that have a high volume of listings, however the areas around Green Lake really stand out considering the size of these districts. Most of these zipcodes have over 500 listings in that year alone.
 
-Looking at how properties are priced we can deduce the market demands in a region. Focusing on Green Lake we see that aside from being in demand, homes  surrounding it are generally are in the mid to high range.
+Looking at how properties are priced we can deduce the market demands in a region. Focusing on Green Lake we see that aside from being in demand, homes surrounding it are generally are in the mid to high range.
 
 ![img](./images/PropertiesPentileDisplay_Tall.png)
 
+In fact, per our dataset, the median home price in King County is 450,000$. In comparison, the median price of properties in the surrounding areas is around 550,000$.
 
-Next we can identify property features that drive price.
+>>>Next we can identify property features that drive price.
 
 ## Conclusions
 ---
