@@ -33,6 +33,7 @@ Our approach to data preparation was systematic. We removed some extraneous outl
 -   Quality of view from the property
 
 ![img](./images/Corelation%20Heatmap.png)
+
 To speak directly to our original business question, 
 >What types of houses are in most demand and where are they located?
 
@@ -42,13 +43,17 @@ Location as a feature is key. Looking at the data in conjunction with zipcode bo
 
 There are a few zipcodes that have a high volume of listings, however the areas around Green Lake really stand out considering the size of these districts. Most of these zipcodes have over 500 listings in that year alone.
 
+>[Visit the interactive map
+](maps/choropeth_zip_salecounts.html) - A clone of the repo would be required
+
 Looking at how properties are priced we can deduce the market demands in a region. Focusing on Green Lake we see that aside from being in demand, homes surrounding it are generally are in the mid to high range.
 
 ![img](./images/PropertiesPentileDisplay_Tall.png)
 
-In fact, per our dataset, the median home price in King County is 450,000$. In comparison, the median price of properties in the surrounding areas is around 550,000$.
+>[Visit the interactive map
+](maps/PropertiesPentileDisplay.html) - A clone of the repo would be required
 
->>>Next we can identify property features that drive price.
+In fact, per our dataset, the median home price in King County is 450,000$. In comparison, the median price of properties in the surrounding areas is around 550,000$.
 
 ## In-Demand Features
 
@@ -69,7 +74,11 @@ The tails of the QQ plot above suggest our data may still have extreme values. F
 
 ![img](./images/price_vs_preds.jpg)
 
-The graph demonstrates how close some of our model's predictions have been getting in our target price range.
+The graph demonstrates how close some of our model's predictions have been getting in our target price range. 
+
+
+
+
 
 ## Conclusions
 ---
