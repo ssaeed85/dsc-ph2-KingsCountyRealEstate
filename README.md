@@ -119,7 +119,7 @@ For Next Steps, if we gather more first-party data we can analyze the potential 
 │     ├── PropertiesPentileDisplay.html
 │     └── choropeth_zip_salecounts.html
 ├── README.md
-├── *Final Presentation*
+├── King_County_RealEstate_Project.pdf
 └── Price_Prediction_and_Analysis_in_KingCounty.ipynb
 ```
 
