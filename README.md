@@ -41,10 +41,10 @@ Location as a feature is key. Looking at the data in conjunction with zipcode bo
 
 ![img](./images/chloro_salescount.png)
 
-There are a few zipcodes that have a high volume of listings, however the areas around Green Lake really stand out considering the size of these districts. Most of these zipcodes have over 500 listings in that year alone.
-
 >[Visit the interactive map
 ](maps/choropeth_zip_salecounts.html) - A clone of the repo would be required
+There are a few zipcodes that have a high volume of listings, however the areas around Green Lake really stand out considering the size of these districts. Most of these zipcodes have over 500 listings in that year alone.
+
 
 Looking at how properties are priced we can deduce the market demands in a region. Focusing on Green Lake we see that aside from being in demand, homes surrounding it are generally are in the mid to high range.
 
