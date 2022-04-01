@@ -57,15 +57,15 @@ We identified that the most prevelent features of a home in or sales data were a
 
 
 ## The Model
-When tested, our model receives an R-Squared value of .823. This means our model accounts for 82.3% of the varince in prices. In addition our tested root mean squared error was $85,474.40. This determines the range around our predicted price. Entering the key features into our model we are predicting that a home with these features in the designated zipcode will sell for between $610,306 and $696,306. We advise the real estate company target transactions in this price range to maximize their potential revenue. 
+When tested, our model receives an R-Squared value of .823. This means our model accounts for 82.3% of the varince in prices. In addition our tested root mean squared error was $85,474.40. This determines the range around our predicted price. Entering the key features into our model we are predicting that a home with these features in the designated zipcode will sell for between $610,569 and $696,043. We advise the real estate company target transactions in this price range to maximize their potential revenue. 
 
 ![img](./images/ResidualsPlotforLinearRegressionModel7b.jpg)
 
-
+From the plot above we can see that our residuals are slightly heteroscedastic. That is they aren't completely uniform. In addition you can tell the distribution on the right a tall peak meaning the tails of our data are fatter. 
 
 ![img](./images/QQPlotModel7b.jpg)
 
-
+The tails of the QQ plot above suggest our data may still have extreme values. Further cleaning would remove outliers and improve oour model. 
 
 ![img](./images/price_vs_preds.jpg)
 
