@@ -96,7 +96,7 @@ For Next Steps, if we gather more first-party data we can analyze the potential 
 ├── Workspace  
 │     ├── Nimeshi
 │     │   ├── Notes.md
-│     │   └── Untitled.ipynb
+│     │   └── binningworkflow.ipynb
 │     ├── Saad
 │     │   ├── FoliumChoropleth.ipynb
 │     │   ├── FoliumMarkers.ipynb
@@ -104,6 +104,8 @@ For Next Steps, if we gather more first-party data we can analyze the potential 
 │     │   ├── Notebook_obsolete.pynb
 │     │   └── Notes.md
 │     └── Zach
+│          ├── Final Jupyter Notebook Copy.ipynb
+│          ├── Jupyter_Final copy.ipynb
 │          ├── Models 6-8.ipynb
 │          ├── Refined Analysis.ipynb
 │          ├── Scrapwork.ipynb
