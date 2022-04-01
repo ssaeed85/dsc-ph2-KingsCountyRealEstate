@@ -1,26 +1,8 @@
 ![img](./images/SplashHeader.jpg)
 # Machine Learning in the county of Kings
 
-## Overview
----
-
-[GitHub repository](https://github.com/ssaeed85/dsc-ph2-KingsCountyRealEstate)
 
 
-## Authors:
----
-- Nimeshi Fernando: 
-[LinkedIn](https://www.linkedin.com/in/nimeshi-fernando2019/) |
-[GitHub](https://github.com/nishlikefish) |
-[Email](nimeshilfernando@gmail.com)
-- Saad Saeed: 
-[LinkedIn](https://www.linkedin.com/in/saadsaeed85/) |
-[GitHub](https://github.com/ssaeed85) |
-[Email](mailto:saadsaeed85@gmail.com)
-- Zachary Rauch: 
-[LinkedIn](https://www.linkedin.com/in/zach-rauch/) |
-[GitHub](https://github.com/ZachRauch)|
-[Email](zach.rauch0@gmail.com)
 
 ## Business Problem
 ---
@@ -72,9 +54,11 @@ In fact, per our dataset, the median home price in King County is 450,000$. In c
 
 ## Conclusions
 ---
+In conclusion, the answers to the questions above translates into actionable recommendations. The zip codes which have sold the most homes are the zip codes we recommend targeting in terms of sellers. Similarly with the features of the home, such as bedroom etc. We recommend targeting sellers that have these features in their homes. We recommend using our model to input these values to predict what price the house will ultimately sell for, thereby also predicting future potential revenue.
 
-
-
+## Next steps
+---
+For Next Steps, if we gather more first-party data we can analyze the potential costs of our recommended strategy and provide a more holistic overview of our current model. With more historical data we can upgrade our model to include time series analysis which will formulate more accurate predictions and also illustrate both sales and price trends throughout the year, which would be invaluable to Keller Williams Realty moving forward. Furthermore, we can use the upgraded model to determine whether the housing market is over or under-inflated at any given time. This would be a great predictive tool in understanding whether to gear marketing efforts to sellers or buyers and vice versa.
 
 ## Repository Structure
 ---
@@ -108,6 +92,23 @@ In fact, per our dataset, the median home price in King County is 450,000$. In c
 ├── *Final Presentation*
 └── Price_Prediction_and_Analysis_in_KingCounty.ipynb
 ```
+
+
+## Authors:
+---
+- Nimeshi Fernando: 
+[LinkedIn](https://www.linkedin.com/in/nimeshi-fernando2019/) |
+[GitHub](https://github.com/nishlikefish) |
+[Email](nimeshilfernando@gmail.com)
+- Saad Saeed: 
+[LinkedIn](https://www.linkedin.com/in/saadsaeed85/) |
+[GitHub](https://github.com/ssaeed85) |
+[Email](mailto:saadsaeed85@gmail.com)
+- Zachary Rauch: 
+[LinkedIn](https://www.linkedin.com/in/zach-rauch/) |
+[GitHub](https://github.com/ZachRauch)|
+[Email](zach.rauch0@gmail.com)
+Our model and analysis can be found at our github repo:[Price Prediction and Analysis in KingCounty](https://github.com/ssaeed85/dsc-ph2-KingsCountyRealEstate)
 
 ## Citations:
 ---
