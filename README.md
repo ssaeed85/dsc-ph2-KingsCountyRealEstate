@@ -109,7 +109,7 @@ For Next Steps, if we gather more first-party data we can analyze the potential 
 [GitHub](https://github.com/ZachRauch)|
 [Email](zach.rauch0@gmail.com)
 
-Our model and analysis can be found at our github repo:[Price Prediction and Analysis in KingCounty](https://github.com/ssaeed85/dsc-ph2-KingsCountyRealEstate)
+Our model and analysis can be found at our github repo: [Price Prediction and Analysis in KingCounty](https://github.com/ssaeed85/dsc-ph2-KingsCountyRealEstate)
 
 ## Citations:
 ---
