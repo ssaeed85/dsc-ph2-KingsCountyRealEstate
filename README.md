@@ -3,6 +3,25 @@
 
 ## Overview
 ---
+
+[GitHub repository](https://github.com/ssaeed85/dsc-ph2-KingsCountyRealEstate)
+
+
+## Authors:
+---
+- Nimeshi Fernando: 
+[LinkedIn](https://www.linkedin.com/in/nimeshi-fernando2019/) |
+[GitHub](https://github.com/nishlikefish) |
+[Email](nimeshilfernando@gmail.com)
+- Saad Saeed: 
+[LinkedIn](https://www.linkedin.com/in/saadsaeed85/) |
+[GitHub](https://github.com/ssaeed85) |
+[Email](mailto:saadsaeed85@gmail.com)
+- Zachary Rauch: 
+[LinkedIn](https://www.linkedin.com/in/zach-rauch/) |
+[GitHub](https://github.com/ZachRauch)|
+[Email](zach.rauch0@gmail.com)
+
 ## Business Problem
 ---
 Our chosen stakeholder is the real-estate agency Keller Williams, who's looking to expand into King County in Washington. They want an analytically supported strategy based on inferential and predictive analysis of the data available on the king county website. Our approach to formulating the business question was to first define our recommended strategy and formulate the business question around it. Accordingly, we formulated three questions that we wanted to answer using our data analysis and based our recommendations on those questions.
@@ -31,6 +50,7 @@ Our approach to data preparation was systematic. We removed some extraneous outl
 -   Number of bedrooms and bathrooms
 -   Quality of view from the property
 
+![img](./images/Corelation%20Heatmap.png)
 To speak directly to our original business question, 
 >What types of houses are in most demand and where are they located?
 
@@ -48,6 +68,8 @@ In fact, per our dataset, the median home price in King County is 450,000$. In c
 
 >>>Next we can identify property features that drive price.
 
+![img](./images/price_vs_preds.jpg)
+
 ## Conclusions
 ---
 
@@ -62,11 +84,10 @@ In fact, per our dataset, the median home price in King County is 450,000$. In c
 │     │   ├── Notes.md
 │     │   └── Untitled.ipynb
 │     ├── Saad
-│     │   ├── Choropleth testing.ipynb
-│     │   ├── Map Testing.ipynb
-│     │   ├── Model 7b.ipynb
+│     │   ├── FoliumChoropleth.ipynb
+│     │   ├── FoliumMarkers.ipynb
 │     │   ├── Notebook.ipynb
-│     │   ├── Notebook_Generalized.pynb
+│     │   ├── Notebook_obsolete.pynb
 │     │   └── Notes.md
 │     └── Zach
 │          ├── Models 6-8.ipynb
@@ -85,23 +106,8 @@ In fact, per our dataset, the median home price in King County is 450,000$. In c
 │     └── choropeth_zip_salecounts.html
 ├── README.md
 ├── *Final Presentation*
-└── *Final Notebook*
+└── Price_Prediction_and_Analysis_in_KingCounty.ipynb
 ```
-
-## Authors:
----
-- Nimeshi Fernando: 
-[LinkedIn](https://www.linkedin.com/in/nimeshi-fernando2019/) |
-[GitHub](https://github.com/nishlikefish) |
-[Email](nimeshilfernando@gmail.com)
-- Saad Saeed: 
-[LinkedIn](https://www.linkedin.com/in/saadsaeed85/) |
-[GitHub](https://github.com/ssaeed85) |
-[Email](mailto:saadsaeed85@gmail.com)
-- Zachary Rauch: 
-[LinkedIn](https://www.linkedin.com/in/zach-rauch/) |
-[GitHub](https://github.com/ZachRauch)|
-[Email](zach.rauch0@gmail.com)
 
 ## Citations:
 ---
